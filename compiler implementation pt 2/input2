@@ -1,0 +1,3 @@
+show["bonjour le monde!"];
+show[3 + 2 * 5];
+show["cool french and cool number :)"];
